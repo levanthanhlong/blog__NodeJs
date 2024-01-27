@@ -1,0 +1,27 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levanthanhlong/blog__NodeJs.git"
+  },
+  "keywords": [
+    "blog",
+    "nodejs"
+  ],
+  "author": "thanh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/levanthanhlong/blog__NodeJs/issues"
+  },
+  "homepage": "https://github.com/levanthanhlong/blog__NodeJs#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.3"
+  }
+}
